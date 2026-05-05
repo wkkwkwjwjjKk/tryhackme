@@ -13,7 +13,7 @@ Importância da enumeração
 🔍 Ferramentas introdutórias
 
 Nmap (conceito básico)
-Burp Suite (noções iniciais)
+frirefox (alterar parâmetro)
 
 💡 Aprendizado
 
